@@ -1,9 +1,9 @@
 {
-  "name": "ai_social_media_app",
+  "name": "ai_automation_app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR_USERNAME.github.io/ai_social_media_app",
+  "homepage": "https://YOUR_USERNAME.github.io/ai_automation_app",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

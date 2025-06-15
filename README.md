@@ -23,8 +23,8 @@ A React-based frontend demo for an AI Social Media Automation MVP. This SaaS pla
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai_social_media_app.git
-cd ai_social_media_app
+git clone https://github.com/YOUR_USERNAME/ai_automation_app.git
+cd ai_automation_app
 ```
 
 2. Install dependencies:
@@ -47,7 +47,7 @@ npm run dev
 
 1. **Update the homepage URL** in `package.json`:
    ```json
-   "homepage": "https://YOUR_USERNAME.github.io/ai_social_media_app"
+   "homepage": "https://YOUR_USERNAME.github.io/ai_automation_app"
    ```
 
 2. **Build and deploy**:
@@ -75,7 +75,7 @@ The repository includes a GitHub Actions workflow that automatically deploys to 
    - Click "Save"
 
 3. **Your app will be available at**:
-   `https://YOUR_USERNAME.github.io/ai_social_media_app`
+   `https://YOUR_USERNAME.github.io/ai_automation_app`
 
 ## 🔧 Configuration
 
@@ -97,7 +97,7 @@ The repository includes a GitHub Actions workflow that automatically deploys to 
 ## 📁 Project Structure
 
 ```
-ai_social_media_app/
+ai_automation_app/
 ├── public/
 ├── src/
 │   ├── App.tsx          # Main application component
